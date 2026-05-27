@@ -1,0 +1,18 @@
+# Vivado generated files
+fpga/.Xil/
+fpga/project/
+fpga/project_validate/
+fpga/fpga/
+fpga/*.jou
+fpga/*.log
+fpga/dfx_runtime.txt
+
+# SDK generated outputs
+sdk/*.bin
+sdk/*.mif
+sdk/software/examples/*/obj/
+
+# Common temporary files
+*.tmp
+*.bak
+Thumbs.db

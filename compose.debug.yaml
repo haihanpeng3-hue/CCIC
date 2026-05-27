@@ -1,0 +1,6 @@
+services:
+  synthesisccic2026main:
+    image: synthesisccic2026main
+    build:
+      context: .
+      dockerfile: ./Dockerfile
